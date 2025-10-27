@@ -21,7 +21,3 @@
     --stroke-hightlight: #F3541C;
     --semantic-error: #DC2626;
 }
-
-body {
-    overflow: hidden;
-}
