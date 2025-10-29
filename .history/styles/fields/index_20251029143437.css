@@ -88,12 +88,7 @@ input {
 
         font: var(--text-sm);
         color: var(--semantic-error);
-
-        margin-top: .25rem;
-    }
-
-    &:not(:focus):valid + .error {
-        display: none;
+        
     }
 
 }
