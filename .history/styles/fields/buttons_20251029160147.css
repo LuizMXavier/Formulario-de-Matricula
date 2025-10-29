@@ -1,0 +1,6 @@
+button {
+    all: unset;
+    font-weight: 500;
+    color: var(--text-highlight);
+    padding: .75rem;
+}
