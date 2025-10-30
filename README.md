@@ -61,7 +61,7 @@ Durante o desenvolvimento deste projeto, foram praticados conceitos de:
 ---
 
 ## 📷 Prévia do Projeto
-[https://luizmxavier.github.io/Formulario-de-Matricula/](https://github.com/LuizMXavier/Formulario-de-Matricula/blob/main/assets/tela-projeto.png)
+(assets/tela-projeto.png)
 
 ---
 
