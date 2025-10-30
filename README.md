@@ -60,8 +60,8 @@ Durante o desenvolvimento deste projeto, foram praticados conceitos de:
 
 ---
 
-## 📷 Prévia do Projeto
-*(Adicione aqui uma captura de tela da página após o deploy no GitHub Pages)*
+## 📷 Link do Projeto
+(https://luizmxavier.github.io/Formulario-de-Matricula/)
 
 ---
 
